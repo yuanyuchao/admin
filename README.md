@@ -1,10 +1,3 @@
-### 分支记录
-- dpcs_manage 东平昌顺
-- new_wanyou 新万有(已删除，使用主分支代码)
-- jdz_manager 景德镇
-- sxgm_manage 石兴工贸
-- yf_manage 元丰
-- lantian 蓝天（因为有商砼砂浆，单独定制）
 
 
 <p align="center">
